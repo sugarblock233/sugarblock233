@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sugarblock233
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web
+- 🌱 I’m currently learning ai
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me 3296123581@qq.com
 - 😄 Pronouns: ...
